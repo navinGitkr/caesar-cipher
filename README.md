@@ -12,4 +12,4 @@ This is an example of how to list things you need to use the software and how to
 python3
 Installation
 Clone the repo
-git clone https://github.com/Indal216/CAESAR_CIPHER.git
+
